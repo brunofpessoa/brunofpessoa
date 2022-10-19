@@ -33,8 +33,8 @@ Meu nome é Bruno, sou um Engenheiro Químico que se apaixonou pela programaçã
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunofpessoa&repo=store" />
 </a>
 
-<a href="https://github.com/brunofpessoa/trybetunes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunofpessoa&repo=trybetunes" />
+<a href="https://github.com/brunofpessoa/API-store-manager-MSC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunofpessoa&repo=API-store-manager-MSC" />
 </a>
 
 ###

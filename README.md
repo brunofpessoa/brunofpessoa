@@ -20,9 +20,9 @@ Meu nome é Bruno, sou um Engenheiro Químico que se apaixonou pela programaçã
 
 ### 🛠 Minhas Stacks
 
-- 🌐 &nbsp; JavaScript | React | Redux | HTML | CSS 
+- 🌐 &nbsp; JavaScript | TypeScript | React | Redux | HTML | CSS 
 - 💻 &nbsp; NodeJs | Jest | RTL | Docker | Linux
-- 🛢 &nbsp; MySQL
+- 🛢 &nbsp; MySQL | Sqlite
 - 🔧 &nbsp; Git | GitHub | VsCode
 - ✨ &nbsp; Bootstrap
 - 🗓 Possuo experiência com Kanban

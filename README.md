@@ -1,6 +1,6 @@
 ## Olá 👋, pessoa!
 
-Sou um desenvolvedor web Full-Stack e me dedico a melhorar constantemente como profissional e como ser humano. Me formei em Engenharia Química, mas me apaixonei pela tecnologia e decidi segui-la como carreira. Trabalho com um elevado nível de responsabilidade e respeito, sempre em busca de melhorias contínuas.
+Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhorar constantemente como profissional e como ser humano. Me formei em Engenharia Química, mas me apaixonei pela tecnologia e decidi segui-la como carreira. Trabalho com um elevado nível de responsabilidade e respeito, sempre em busca de melhorias contínuas.
 
 ###
 

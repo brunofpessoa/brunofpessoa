@@ -1,6 +1,6 @@
 ## Olá 👋, pessoa!
 
-Meu nome é Bruno, sou um Engenheiro Químico que se apaixonou pela programação e agora essa é minha profissão - Desenvolvedor de Software. Atualmente estudo Back-end na Trybe e meu objetivo é atuar como desenvolvedor Full Stack.
+Sou um desenvolvedor web Full-Stack e me dedico a melhorar constantemente como profissional e como ser humano. Me formei em Engenharia Química, mas me apaixonei pela tecnologia e decidi segui-la como carreira. Trabalho com um elevado nível de responsabilidade e respeito, sempre em busca de melhorias contínuas.
 
 ###
 

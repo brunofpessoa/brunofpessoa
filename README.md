@@ -27,7 +27,7 @@ Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhora
 - 🔧 &nbsp; Git | GitHub | Linux 
 - ✨ &nbsp; Styled components | Bootstrap | Mantine
 - 🗓 Possuo experiência com metodologias ágeis.
-
+<!-- 
 ### 🗃 Projetos de destaque
 
 <a href="https://github.com/brunofpessoa/store">
@@ -36,7 +36,7 @@ Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhora
 
 <a href="https://github.com/brunofpessoa/API-store-manager-MSC">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=brunofpessoa&repo=API-store-manager-MSC" />
-</a>
+</a> -->
 
 ###
 

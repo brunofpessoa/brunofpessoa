@@ -20,12 +20,13 @@ Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhora
 
 ### 🛠 Minhas Stacks
 
-- 🌐 &nbsp; JavaScript | TypeScript | React | Redux | HTML | CSS 
-- 💻 &nbsp; NodeJs | Jest | RTL | Docker | Linux
-- 🛢 &nbsp; MySQL | Sqlite
-- 🔧 &nbsp; Git | GitHub | VsCode
-- ✨ &nbsp; Bootstrap
-- 🗓 Possuo experiência com Kanban
+- 🌐 &nbsp; JavaScript | React | Redux | HTML | CSS 
+- 💻 &nbsp; TypeScript | Node | Python | Docker
+- 🛢 &nbsp; MongoDB | MySQL | ORM
+- 🧪 &nbsp; Jest | Testing Library | Mocha | Sinon | Chai
+- 🔧 &nbsp; Git | GitHub | Linux 
+- ✨ &nbsp; Styled components | Bootstrap | Mantine
+- 🗓 Possuo experiência com metodologias ágeis.
 
 ### 🗃 Projetos de destaque
 

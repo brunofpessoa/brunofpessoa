@@ -22,7 +22,7 @@ Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhora
 
 - 🌐 &nbsp; JavaScript | React | Redux | HTML | CSS 
 - 💻 &nbsp; TypeScript | Node | Python | Docker
-- 🛢 &nbsp; MongoDB | MySQL | ORM
+- 🛢 &nbsp; MongoDB | MySQL | Sequelize | Mongoose
 - 🧪 &nbsp; Jest | Testing Library | Mocha | Sinon | Chai
 - 🔧 &nbsp; Git | GitHub | Linux 
 - ✨ &nbsp; Styled components | Bootstrap | Mantine

@@ -1,10 +1,6 @@
 ## Olá 👋, pessoa!
 
----
-
 Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhorar constantemente como profissional e como ser humano. Me formei em Engenharia Química, mas me apaixonei pela tecnologia e decidi segui-la como carreira. Trabalho com um elevado nível de responsabilidade e respeito, sempre em busca de melhorias contínuas.
-
----
 
 ### 💻 Minhas Stacks
 <span>
@@ -23,7 +19,6 @@ Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhora
   <img src="https://img.shields.io/badge/Docker-323330?logo=Docker&logoColor=2496ed" alt="Docker logo" title="Docker" height="25" />
 </span>
 
----
 ### 🧪 Testes
 <span>
   <img src="https://img.shields.io/badge/Jest-323330?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" />
@@ -33,7 +28,6 @@ Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhora
   <img src="https://img.shields.io/badge/Sinon-323330?logo=sinon" alt="Sinon logo" title="Sinon" height="25" />
 </span>
 
----
 ### 🔧 Ferramentas
 <span>
   <img src="https://img.shields.io/badge/git-323330?logo=git&logoColor=F05032" alt="git 836FFFlogo" title="git" height="25" />
@@ -42,11 +36,10 @@ Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhora
   <img src="https://img.shields.io/badge/ESLint-323330?logo=eslint&logoColor=6464e2" alt="ESLint logo" title="ESLint" height="25" />
 </span>
 
----
-
-<br />
+</br>
 
 Veja meu __[portfólio](https://brunopessoa.tk)__ e saiba mais sobre mim e meus projetos.
+
 ### Vamos conversar!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brunofpessoa/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brunofernpessoa@gmail.com)

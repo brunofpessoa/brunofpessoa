@@ -3,6 +3,7 @@
 Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhorar constantemente como profissional e como ser humano. Me formei em Engenharia Química, mas me apaixonei pela tecnologia e decidi segui-la como carreira. Trabalho com um elevado nível de responsabilidade e respeito, sempre em busca de melhorias contínuas.
 
 ### 💻 Minhas Stacks
+
 <span>
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
   <img src="https://shields.io/badge/TypeScript-323330?logo=TypeScript" alt="TypeScript logo" title="TypeScript" height="25" />
@@ -20,6 +21,7 @@ Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhora
 </span>
 
 ### 🧪 Testes
+
 <span>
   <img src="https://img.shields.io/badge/Jest-323330?logo=jest&logoColor=cc0000" alt="Jest logo" title="Jest" height="25" />
   <img src="https://img.shields.io/badge/RTL-323330?logo=testing-library&logoColor=red" alt="RTL logo" title="RTL" height="25" />
@@ -29,6 +31,7 @@ Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhora
 </span>
 
 ### 🔧 Ferramentas
+
 <span>
   <img src="https://img.shields.io/badge/git-323330?logo=git&logoColor=F05032" alt="git 836FFFlogo" title="git" height="25" />
   <img src="https://img.shields.io/badge/-Linux-323330?logo=linux" alt="Linux logo" title="Linux" height="25" />

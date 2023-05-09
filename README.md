@@ -27,7 +27,6 @@ Meu nome Bruno Pessoa, sou um desenvolvedor web Full-Stack e me dedico a melhora
   <img src="https://img.shields.io/badge/RTL-323330?logo=testing-library&logoColor=red" alt="RTL logo" title="RTL" height="25" />
   <img src="https://img.shields.io/badge/Mocha-323330?logo=mocha&logoColor=Brown" alt="Mocha logo" title="Mocha" height="25" />
   <img src="https://img.shields.io/badge/Chai-323330?logo=chai&logoColor=red" alt="Chai logo" title="Chai" height="25" />
-  <img src="https://img.shields.io/badge/Sinon-323330?logo=sinon" alt="Sinon logo" title="Sinon" height="25" />
 </span>
 
 ### 🔧 Ferramentas
